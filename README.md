@@ -12,6 +12,7 @@ GitHub Pages 활성화 후:
 - 개인정보처리방침: `https://prechloroplast88.github.io/dawasseo-docs/privacy_policy.html`
 - 고객 지원(App Store Support URL): `https://prechloroplast88.github.io/dawasseo-docs/support.html`
 - 이전 처리방침(2026-07-27 개정, 2026-09-23까지 적용): `https://prechloroplast88.github.io/dawasseo-docs/privacy_policy_20260727.html`
+- 이전 처리방침(2026-09-16 개정, 2026-11-09까지 적용): `https://prechloroplast88.github.io/dawasseo-docs/privacy_policy_20260916.html`
 
 ## 갱신 절차
 
